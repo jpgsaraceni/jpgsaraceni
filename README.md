@@ -31,7 +31,8 @@
 
 * 🖥 &nbsp;
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
-  ![Photopea](https://img.shields.io/badge/-Photopea-333333?style=flat&logo=photopea)
+  ![Canva](https://img.shields.io/badge/-Canva-333333?style=flat&logo=canva)
+  ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello)
   
 <a href="https://github.com/jpgsaraceni">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpgsaraceni&theme=buefy&show_icons=true" />
