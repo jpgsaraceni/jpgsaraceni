@@ -19,6 +19,7 @@
   [![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)](https://github.com/jpgsaraceni/desafio-alphapet)
   [![Apache](https://img.shields.io/badge/-Apache-333333?style=flat&logo=apache)](https://github.com/jpgsaraceni/servers)
   [![NGINX](https://img.shields.io/badge/-NGINX-333333?style=flat&logo=nginx)](https://github.com/jpgsaraceni/servers)
+  [![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)](https://github.com/jpgsaraceni/servers/Go-Challenge)
 * 🛢 &nbsp;
   [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)](https://github.com/jpgsaraceni/node-postgres-challenge)
 * ⚙️ &nbsp;
