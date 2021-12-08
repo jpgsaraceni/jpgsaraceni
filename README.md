@@ -6,7 +6,7 @@
 * 👨‍🏫 &nbsp;English, Math and Physics teacher.
 * 🎇 &nbsp;Star Wars enthusiast.
 * ⚙️ &nbsp;Production Engineer (Universidade Federal Fluminense).
-* 📚 &nbsp;Aspirant Web Developer (Alpha EdTech).
+* 📚 &nbsp;Aspirant Web Developer (Alpha EdTech and Stone).
 
 ### 🛠 &nbsp;Tech Stack
 
