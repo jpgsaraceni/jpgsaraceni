@@ -37,8 +37,8 @@
   [![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello)](https://trello.com/saracenij)
   
 <a href="https://github.com/jpgsaraceni">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpgsaraceni&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpgsaraceni&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpgsaraceni&theme=radical&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpgsaraceni&theme=radical&layout=compact&hide=html,python,typescript,css" />
 </a>
 
 ### 🤝🏻 &nbsp;Connect with Me
