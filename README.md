@@ -17,24 +17,29 @@
   [![jQuery](https://img.shields.io/badge/-jQuery-333333?style=flat&logo=jquery)](https://github.com/jpgsaraceni/educational-game-challenge)
   [![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)](https://github.com/jpgsaraceni/node-postgres-challenge)
   [![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)](https://github.com/jpgsaraceni/desafio-alphapet)
-  [![Apache](https://img.shields.io/badge/-Apache-333333?style=flat&logo=apache)](https://github.com/jpgsaraceni/servers)
-  [![NGINX](https://img.shields.io/badge/-NGINX-333333?style=flat&logo=nginx)](https://github.com/jpgsaraceni/servers)
   [![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)](https://github.com/jpgsaraceni/servers/Go-Challenge)
+  
 * 🛢 &nbsp;
   [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)](https://github.com/jpgsaraceni/node-postgres-challenge)
+  
 * ⚙️ &nbsp;
   [![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)](#)
-  [![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)](https://github.com/jpgsaraceni)
-  [![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)](https://github.com/jpgsaraceni/jpgsaraceni)
-* 🔧 &nbsp;
-  [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://code.visualstudio.com/)
   [![PowerShell](https://img.shields.io/badge/-PowerShell-333333?style=flat&logo=powershell)](https://docs.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7.1)
   [![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=gnubash)](https://github.com/jpgsaraceni/servers)
+  [![Apache](https://img.shields.io/badge/-Apache-333333?style=flat&logo=apache)](https://github.com/jpgsaraceni/servers)
+  [![NGINX](https://img.shields.io/badge/-NGINX-333333?style=flat&logo=nginx)](https://github.com/jpgsaraceni/servers)
+  [![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)](https://github.com/jpgsaraceni/go-docker)
+  
+* 🔧 &nbsp;
+  [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://code.visualstudio.com/)
+  [![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)](https://github.com/jpgsaraceni)
+  [![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)](https://github.com/jpgsaraceni/jpgsaraceni)
 
 * 🖥 &nbsp;
   [![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)](https://www.figma.com/@Saraceni)
   [![Canva](https://img.shields.io/badge/-Canva-333333?style=flat&logo=canva)](https://www.canva.com/)
   [![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello)](https://trello.com/saracenij)
+  [![ClickUp](https://img.shields.io/badge/-ClickUp-333333?style=flat&logo=clickup)](https://app.clickup.com/)
   
 <a href="https://github.com/jpgsaraceni">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpgsaraceni&theme=radical&show_icons=true" />
