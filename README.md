@@ -17,10 +17,11 @@
   [![jQuery](https://img.shields.io/badge/-jQuery-333333?style=flat&logo=jquery)](https://github.com/jpgsaraceni/educational-game-challenge)
   [![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)](https://github.com/jpgsaraceni/node-postgres-challenge)
   [![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)](https://github.com/jpgsaraceni/desafio-alphapet)
-  [![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)](https://github.com/jpgsaraceni/servers/Go-Challenge)
+  [![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)](https://github.com/jpgsaraceni/servers/suricate-bank)
   
 * 🛢 &nbsp;
   [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)](https://github.com/jpgsaraceni/node-postgres-challenge)
+  [![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)](https://github.com/jpgsaraceni/mongoose-crud)
   
 * ⚙️ &nbsp;
   [![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)](#)
@@ -40,6 +41,13 @@
   [![Canva](https://img.shields.io/badge/-Canva-333333?style=flat&logo=canva)](https://www.canva.com/)
   [![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello)](https://trello.com/saracenij)
   [![ClickUp](https://img.shields.io/badge/-ClickUp-333333?style=flat&logo=clickup)](https://app.clickup.com/)
+  
+* 📚 &nbsp;
+  [![Clean Arch](https://img.shields.io/badge/-Clean%20Arch-333333?style=flat)](https://github.com/jpgsaraceni/servers/suricate-bank)
+  ![Clean Code](https://img.shields.io/badge/-Clean%20Code-333333?style=flat)
+  ![Agile](https://img.shields.io/badge/-Agile-333333?style=flat)
+  ![Kanban](https://img.shields.io/badge/-Kanban-333333?style=flat)
+  ![Scrum](https://img.shields.io/badge/-Scrum-333333?style=flat)
   
 <a href="https://github.com/jpgsaraceni">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpgsaraceni&theme=radical&show_icons=true" />
