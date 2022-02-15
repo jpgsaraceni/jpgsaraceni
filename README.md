@@ -22,7 +22,7 @@
 * 🛢 &nbsp;
   [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)](https://github.com/jpgsaraceni/suricate-bank)
   [![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)](https://github.com/jpgsaraceni/mongoose-crud)
-  [![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=reids)](https://github.com/jpgsaraceni/suricate-bank)
+  [![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)](https://github.com/jpgsaraceni/suricate-bank)
   
 * ⚙️ &nbsp;
   [![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)](#)
