@@ -36,7 +36,8 @@
   [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://code.visualstudio.com/)
   [![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)](https://github.com/jpgsaraceni)
   [![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)](https://github.com/jpgsaraceni/jpgsaraceni)
-
+  [![Swagger](https://img.shields.io/badge/-Swagger-333333?style=flat&logo=swagger)](https://github.com/jpgsaraceni/suricate-bank)
+  
 * 🖥 &nbsp;
   [![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)](https://www.figma.com/@Saraceni)
   [![Canva](https://img.shields.io/badge/-Canva-333333?style=flat&logo=canva)](https://www.canva.com/)
