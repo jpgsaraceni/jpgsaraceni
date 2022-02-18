@@ -5,7 +5,7 @@
 * 👨‍👧 &nbsp;Father of 6-year-old Lina.
 * 👨‍🏫 &nbsp;English, Math and Physics teacher.
 * 🎇 &nbsp;Star Wars enthusiast.
-* 🇭🇺&nbsp;Tricolor.
+* 🇭🇺 &nbsp;Tricolor.
 * ⚙️ &nbsp;Production Engineer (Universidade Federal Fluminense).
 * 💼 &nbsp;Golang Developer.
 
