@@ -27,11 +27,11 @@
   
 * ⚙️ &nbsp;
   [![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)](#)
-  [![PowerShell](https://img.shields.io/badge/-PowerShell-333333?style=flat&logo=powershell)](https://docs.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7.1)
   [![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=gnubash)](https://github.com/jpgsaraceni/servers)
   [![Apache](https://img.shields.io/badge/-Apache-333333?style=flat&logo=apache)](https://github.com/jpgsaraceni/servers)
   [![NGINX](https://img.shields.io/badge/-NGINX-333333?style=flat&logo=nginx)](https://github.com/jpgsaraceni/servers)
   [![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)](https://github.com/jpgsaraceni/go-docker)
+  [![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-333333?style=flat&logo=githubactions)](https://github.com/jpgsaraceni/gita)
   
 * 🔧 &nbsp;
   [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://code.visualstudio.com/)
