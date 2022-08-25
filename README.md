@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-* 👨‍👧 &nbsp;Father of 6-year-old Lina.
+* 👨‍👧 &nbsp;Father of 7-year-old Lina.
 * 👨‍🏫 &nbsp;English, Math and Physics teacher.
 * 🎇 &nbsp;Star Wars enthusiast.
 * 🇭🇺 &nbsp;Tricolor.
