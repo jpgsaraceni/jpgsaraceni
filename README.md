@@ -52,11 +52,6 @@
   ![Kanban](https://img.shields.io/badge/-Kanban-333333?style=flat)
   ![Scrum](https://img.shields.io/badge/-Scrum-333333?style=flat)
   
-<a href="https://github.com/jpgsaraceni">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpgsaraceni&theme=radical&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpgsaraceni&theme=radical&layout=compact&hide=html,python,typescript,css" />
-</a>
-
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
