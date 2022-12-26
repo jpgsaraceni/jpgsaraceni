@@ -19,6 +19,7 @@
   [![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)](https://github.com/jpgsaraceni/node-postgres-challenge)
   [![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)](https://github.com/jpgsaraceni/desafio-alphapet)
   [![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)](https://github.com/jpgsaraceni/servers/suricate-bank)
+  [![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)](https://github.com/jpgsaraceni/servers/pai-ta-on)
   
 * 🛢 &nbsp;
   [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)](https://github.com/jpgsaraceni/suricate-bank)
@@ -31,7 +32,7 @@
   [![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)](https://github.com/jpgsaraceni/go-docker)
   [![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-333333?style=flat&logo=githubactions)](https://github.com/jpgsaraceni/gita)
   [![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-333333?style=flat&logo=apache-kafka)](https://github.com/jpgsaraceni/best-funks)
-  
+  [![Airflow](https://img.shields.io/badge/-Airflow-333333?style=flat&logo=apache-airflow)](https://airflow.apache.org/)
   
 * 🔧 &nbsp;
   [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://code.visualstudio.com/)
