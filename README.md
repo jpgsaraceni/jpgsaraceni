@@ -7,7 +7,7 @@
 * 🎇 &nbsp;Star Wars enthusiast.
 * 🇭🇺 &nbsp;Tricolor.
 * ⚙️ &nbsp;Production Engineer (Universidade Federal Fluminense).
-* 💼 &nbsp;Golang Developer.
+* 💼 &nbsp;Back-end Software Engineer.
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -45,6 +45,7 @@
   [![Canva](https://img.shields.io/badge/-Canva-333333?style=flat&logo=canva)](https://www.canva.com/)
   [![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello)](https://trello.com/saracenij)
   [![ClickUp](https://img.shields.io/badge/-ClickUp-333333?style=flat&logo=clickup)](https://app.clickup.com/)
+  [![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira)](https://www.atlassian.com/software/jira)
   
 * 📚 &nbsp;
   [![Clean Arch](https://img.shields.io/badge/-Clean%20Arch-333333?style=flat)](https://github.com/jpgsaraceni/servers/suricate-bank)
