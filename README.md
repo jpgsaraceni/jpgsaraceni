@@ -3,9 +3,10 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 * 👨‍👧 &nbsp;Father of 7-year-old Lina.
-* 👨‍🏫 &nbsp;English, Math and Physics teacher.
+* 👨‍🏫 &nbsp;English, Math, Physics and Programming teacher.
 * 🎇 &nbsp;Star Wars enthusiast.
 * 🇭🇺 &nbsp;Tricolor.
+* 🍻 &nbsp;Beer, please!
 * ⚙️ &nbsp;Production Engineer (Universidade Federal Fluminense).
 * 💼 &nbsp;Back-end Software Engineer.
 
