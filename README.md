@@ -34,6 +34,7 @@
   [![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-333333?style=flat&logo=githubactions)](https://github.com/jpgsaraceni/gita)
   [![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-333333?style=flat&logo=apache-kafka)](https://github.com/jpgsaraceni/best-funks)
   [![Airflow](https://img.shields.io/badge/-Airflow-333333?style=flat&logo=apache-airflow)](https://airflow.apache.org/)
+  [![Spark](https://img.shields.io/badge/-Spark-333333?style=flat&logo=apache-spark)](https://spark.apache.org/)
   
 * 🔧 &nbsp;
   [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://code.visualstudio.com/)
